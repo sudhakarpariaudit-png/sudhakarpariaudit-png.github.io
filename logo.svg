@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="130" viewBox="0 0 520 130">
+<rect width="520" height="130" fill="white"/>
+<g transform="translate(18,18)">
+  <path d="M8 86 L39 8 L64 8 L92 86 L70 86 L60 58 L31 58 L21 86 Z M38 40 L54 40 L46 19 Z" fill="#0B2945"/>
+  <path d="M55 70 L76 39 L101 82 L84 82 L72 62 L65 74 Z" fill="#C49A4A"/>
+  <text x="112" y="39" font-family="Georgia,serif" font-size="28" font-weight="700" fill="#0B2945">Sudhakar and Gayathri Associates</text>
+  <text x="114" y="67" font-family="Arial,sans-serif" font-size="13" letter-spacing="4" fill="#5A6673">CHARTERED ACCOUNTANTS</text>
+</g></svg>
