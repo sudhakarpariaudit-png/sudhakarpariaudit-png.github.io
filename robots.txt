@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sudhakarpariaudit-png.github.io/sitemap.xml
